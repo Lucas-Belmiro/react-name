@@ -1,7 +1,7 @@
 
 function PrimeiroComponente() {
   return (
-    <div className="App">
+    <div>
       <h1>Meu primeiro componente</h1>
     </div>
   );
